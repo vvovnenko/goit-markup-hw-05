@@ -737,7 +737,7 @@ ul, ol {
 .modal-form-check-wrapper {
     margin-bottom: 24px;
 }
-.modal__check-input:checked + .modal-form-check-text .modal-form-check-box {
+.modal-form-check-input:checked + .modal-form-check-text .modal-form-check-box {
     background-color: var(--ocean);
     border: none;
     fill: var(--cloud);
